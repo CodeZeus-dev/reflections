@@ -4,4 +4,15 @@ At Makers, we engaged in pair programming every day. Makers believes that pair p
 
 So, we decided to apply pairing to writing a post on reflecting on our journey towards becoming oftware developers. 
 
-. 
+### Points to touch upon
+
+- Tell me about yourself
+  - Background
+  - Experiences
+- What attracted you to a career as a software developer
+  - Motivation
+  - Inspiration
+- Reflections on your Makers experience
+  - Favorite and least favorite weeks and why
+  - What was the most challenging aspect of the bootcamp
+  - What was your driving force
